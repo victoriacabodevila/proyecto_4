@@ -5,7 +5,7 @@
 
 **Objetivo**: profundizar y ajustar la resolución de uno de los proyectos. 
 
-**Parte A: profundización en el Análisis Exloratorio de Datos (EDA)**
+**Parte A: profundización en el Análisis Exploratorio de Datos (EDA)**
 
 **Parte B: Modelo benchmark**
 
