@@ -12,7 +12,7 @@
 - Modelo
 - Accuracy y matriz de confusión
 
-**Mejora del modelo benchmark**
+**Parte C: Mejora del modelo benchmark**
 
 - Red Neuronal Artificial
 
