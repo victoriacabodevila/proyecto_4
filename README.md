@@ -18,6 +18,6 @@
 
 Keywords: Keras (TensorFlow), Neural Network, SpaCy, Binary Classification, TfIdfVectorizer, L2 Regularization
 
-![Imagen](https://github.com/victoriacabodevila/proyecto_4/blob/main/Image.png)
+![Imagen](https://github.com/victoriacabodevila/proyecto_4/blob/main/Image_1.png)
 
 
